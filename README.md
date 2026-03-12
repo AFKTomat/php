@@ -12,6 +12,6 @@
 
 **Глухая бабушка:**  
 - [Код — index.php](https://github.com/AFKTomat/php/blob/main/KT1/index.php)  
-- [Скриншот — image.png](https://github.com/AFKTomat/php/blob/main/KT1/KT1.png)
+- [Скриншот — image.png](https://github.com/AFKTomat/php/blob/main/KT1/image.png)
 
 ---
