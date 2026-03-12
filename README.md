@@ -15,3 +15,15 @@
 - [Скриншот — image.png](https://github.com/AFKTomat/php/blob/main/KT1/image.png)
 
 ---
+
+## Контрольная точка №2
+
+**Практические задания:**  
+| Задание | Код | скриншот |
+|---------|-----|----------|
+| Задание №3 | [task_03.php](https://github.com/AFKTomat/php/blob/main/tasks/task_03.php) | [image_task_03.png](https://github.com/AFKTomat/php/blob/main/tasks/image_task_03.png) |
+| Задание №4 | [task_04.php](https://github.com/AFKTomat/php/blob/main/tasks/task_04.php) | [image_task_04.png](https://github.com/AFKTomat/php/blob/main/tasks/image_task_04.png) |
+| Задание №5 | [task_05.php](https://github.com/AFKTomat/php/blob/main/tasks/task_05.php) | [image_task_05.png](https://github.com/AFKTomat/php/blob/main/tasks/image_task_05.png) |
+
+**Капча:**
+(В процессе)
