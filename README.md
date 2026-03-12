@@ -2,16 +2,6 @@
 
 ---
 
-## Содержание 
-- [task_01](https://github.com/AFKTomat/php/blob/main/tasks/task_01.php)
-- [task_02](https://github.com/AFKTomat/php/blob/main/tasks/task_02.php)
-- [task_03](https://github.com/AFKTomat/php/blob/main/tasks/task_03.php)
-- [task_04](https://github.com/AFKTomat/php/blob/main/tasks/task_04.php)
-- [task_05](https://github.com/AFKTomat/php/blob/main/tasks/task_05.php)
----
-
-## Введение
-
 ## Контрольная точка №1
 
 **Практические задания:**  
